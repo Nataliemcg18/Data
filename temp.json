@@ -1,98 +1,98 @@
 [
  {
-   "Month": "January ",
+   "Month": 0,
    "Temperature": 32
  },
  {
-   "Month": "January ",
+   "Month":0,
    "Temperature": 45
  },
  {
-   "Month": "February ",
+   "Month": 1,
    "Temperature": 43
  },
  {
-   "Month": "February ",
+   "Month": "1 ",
    "Temperature": 50
  },
  {
-   "Month": "March ",
+   "Month": "2 ",
    "Temperature": 52
  },
  {
-   "Month": "March ",
+   "Month": "2 ",
    "Temperature": 54
  },
  {
-   "Month": "April ",
+   "Month": "3 ",
    "Temperature": 52
  },
  {
-   "Month": "April ",
+   "Month": "3 ",
    "Temperature": 60
  },
  {
-   "Month": "May ",
+   "Month": "4 ",
    "Temperature": 62
  },
  {
-   "Month": "May ",
+   "Month": "4 ",
    "Temperature": 70
  },
  {
-   "Month": "June ",
+   "Month": "5 ",
    "Temperature": 72
  },
  {
-   "Month": "June ",
+   "Month": "5 ",
    "Temperature": 80
  },
  {
-   "Month": "July ",
+   "Month": "6 ",
    "Temperature": 85
  },
  {
-   "Month": "July ",
+   "Month": "6 ",
    "Temperature": 90
  },
  {
-   "Month": "August ",
+   "Month": "7 ",
    "Temperature": 83
  },
  {
-   "Month": "August ",
+   "Month": "7 ",
    "Temperature": 80
  },
  {
-   "Month": "September ",
+   "Month": "8 ",
    "Temperature": 70
  },
  {
-   "Month": "September ",
+   "Month": "8 ",
    "Temperature": 65
  },
  {
-   "Month": "October ",
+   "Month": "9 ",
    "Temperature": 50
  },
  {
-   "Month": "October, ",
+   "Month": "9, ",
    "Temperature": 45
  },
  {
-   "Month": "November ",
+   "Month": "10 ",
    "Temperature": 40
  },
  {
-   "Month": "November ",
+   "Month": "10 ",
    "Temperature": 33
  },
  {
-   "Month": "December ",
+   "Month": "11 ",
    "Temperature": 30
  },
  {
-   "Month": "December ",
+   "Month": "11 ",
    "Temperature": 24
  }
 ]
