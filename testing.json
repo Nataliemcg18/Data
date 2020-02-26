@@ -1,46 +1,46 @@
 [
   {
-    "Lake": "January",
+    "Month": "January",
     "elevation": 217,
     "area": 24386
   },
   {
-    "Lake": "February",
+    "Month": "February",
     "elevation": 254,
     "area": 5374
   },
   {
-    "Lake": "March",
+    "Month": "March",
     "elevation": 248,
     "area": 4624
   },
   {
-    "Lake": "April",
+    "Month": "April",
     "elevation": 254,
     "area": 2247
   },
   {
-    "Lake": "May",
+    "Month": "May",
     "elevation": 253,
     "area": 1353
   },
   {
-    "Lake": "June",
+    "Month": "June",
     "elevation": 227,
     "area": 1223
   },
   {
-    "Lake": "July ",
+    "Month": "July ",
     "elevation": 178,
     "area": 1151
   },
   {
-    "Lake": "August",
+    "Month": "August",
     "elevation": 207,
     "area": 755
   },
   {
-    "Lake": "September",
+    "Month": "September",
     "elevation": 217,
     "area": 657
   }
