@@ -1,0 +1,38 @@
+[
+  {
+    "Month": "January",
+    "Temperature": 35
+  },
+  {
+    "Month": "February",
+    "Temperature": 45
+  },
+  {
+    "Month": "March",
+     "Temperature": 45
+  },
+  {
+    "Month": "April",
+     "Temperature": 50
+  },
+  {
+    "Month": "May",
+    "Temperature": 54
+  },
+  {
+    "Month": "June",
+     "Temperature": 60
+  },
+  {
+    "Month": "July ",
+    "Temperature": 70
+  },
+  {
+    "Month": "August",
+     "Temperature": 76
+  },
+  {
+    "Month": "September",
+     "Temperature": 80
+  }
+]
