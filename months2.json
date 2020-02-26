@@ -1,38 +1,47 @@
 [
   {
     "Month": "January",
+    "Avg": "20",
     "Temperature": 35
   },
   {
     "Month": "February",
+    "Avg": "30",
     "Temperature": 45
   },
   {
     "Month": "March",
+    "Avg": "40",
      "Temperature": 45
   },
   {
     "Month": "April",
+    "Avg": "50",
      "Temperature": 50
   },
   {
     "Month": "May",
+    "Avg": "52",
     "Temperature": 54
   },
   {
     "Month": "June",
+    "Avg": "55",
      "Temperature": 60
   },
   {
     "Month": "July ",
+    "Avg": "60",
     "Temperature": 70
   },
   {
     "Month": "August",
+    "Avg": "70",
      "Temperature": 76
   },
   {
     "Month": "September",
+    "Avg": "80",
      "Temperature": 80
   }
 ]
