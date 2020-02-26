@@ -1,47 +1,38 @@
 [
   {
     "Month": "January",
-    "elevation": 217,
-    "area": 24386
+    "Temperature": 35
   },
   {
     "Month": "February",
-    "elevation": 254,
-    "area": 5374
+    "Temperature": 45
   },
   {
     "Month": "March",
-    "elevation": 248,
-    "area": 4624
+     "Temperature": 45
   },
   {
     "Month": "April",
-    "elevation": 254,
-    "area": 2247
+     "Temperature": 50
   },
   {
     "Month": "May",
-    "elevation": 253,
-    "area": 1353
+    "Temperature": 54
   },
   {
     "Month": "June",
-    "elevation": 227,
-    "area": 1223
+     "Temperature": 60
   },
   {
     "Month": "July ",
-    "elevation": 178,
-    "area": 1151
+    "Temperature": 70
   },
   {
     "Month": "August",
-    "elevation": 207,
-    "area": 755
+     "Temperature": 76
   },
   {
     "Month": "September",
-    "elevation": 217,
-    "area": 657
+     "Temperature": 80
   }
 ]
