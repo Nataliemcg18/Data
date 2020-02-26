@@ -1,46 +1,46 @@
 [
   {
-    "Lake": "Winnipeg",
+    "Lake": "January",
     "elevation": 217,
     "area": 24387
   },
   {
-    "Lake": "Winnipegosis",
+    "Lake": "February",
     "elevation": 254,
     "area": 5374
   },
   {
-    "Lake": "Manitoba",
+    "Lake": "March",
     "elevation": 248,
     "area": 4624
   },
   {
-    "Lake": "SouthernIndian",
+    "Lake": "April",
     "elevation": 254,
     "area": 2247
   },
   {
-    "Lake": "Cedar",
+    "Lake": "May",
     "elevation": 253,
     "area": 1353
   },
   {
-    "Lake": "Island",
+    "Lake": "June",
     "elevation": 227,
     "area": 1223
   },
   {
-    "Lake": "Gods",
+    "Lake": "July ",
     "elevation": 178,
     "area": 1151
   },
   {
-    "Lake": "Cross",
+    "Lake": "August",
     "elevation": 207,
     "area": 755
   },
   {
-    "Lake": "Playgreen",
+    "Lake": "September",
     "elevation": 217,
     "area": 657
   }
