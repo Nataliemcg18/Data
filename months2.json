@@ -24,6 +24,10 @@
     "Avg": "52",
     "Temperature": 54
   },
+    "Month": "May",
+    "Avg": "51",
+    "Temperature": 50
+  },
   {
     "Month": "June",
     "Avg": "55",
@@ -38,6 +42,32 @@
     "Month": "August",
     "Avg": "70",
      "Temperature": 76
+  },
+  {
+    "Month": "August",
+    "Avg": "70",
+     "Temperature": 73
+  },
+  {
+    "Month": "August",
+    "Avg": "69",
+     "Temperature": 72
+  },
+  
+  {
+    "Month": "August",
+    "Avg": "71",
+     "Temperature": 77
+  },
+   {
+    "Month": "August",
+    "Avg": "79",
+     "Temperature": 80
+  },
+   {
+    "Month": "August",
+    "Avg": "70",
+     "Temperature": 68
   },
   {
     "Month": "September",
