@@ -1,0 +1,43 @@
+[
+  {
+    "Day": "Monday",
+    "Books": "20",
+    "Books": 35
+  },
+  {
+    "Day": "Tuesday",
+    "Books": "30",
+    "Books": 45
+  },
+  {
+    "Day": "Wednesday",
+    "Books": "40",
+     "Books": 45
+  },
+  {
+    "Day": "Thursday",
+    "Avg": "50",
+     "Books": 50
+  },
+  {
+    "Day": "Friday",
+    "Books": "52",
+    "Books": 54
+  },
+  {
+    "Day": "Saturday",
+    "Books": "55",
+     "Books": 60
+  },
+  {
+    "Day": "Sunday ",
+    "Books": "60",
+    "Books": 70
+  },
+  {
+    "Day": "November",
+    "Day": "70",
+     "Books": 76
+  }
+ 
+]
