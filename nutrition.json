@@ -2,27 +2,27 @@
   {
     "Day": "1",
     "Avg": "20",
-    "Water": 60
+    "Water": 65
   },
   {
     "Day": "2",
     "Avg": "30",
-    "Water": 55
+    "Water": 60
   },
   {
     "Day": "3",
     "Avg": "40",
-     "Water": 62
+     "Water": 55
   },
   {
     "Day": "4",
     "Avg": "50",
-     "Water": 38
+     "Water": 50
   },
   {
     "Day": "5",
     "Avg": "52",
-    "Water": 65
+    "Water": 45
   },
   {
     "Day": "6",
@@ -32,16 +32,16 @@
   {
     "Day": "7 ",
     "Avg": "60",
-    "Water": 45
+    "Water": 35
   },
   {
     "Day": "8",
     "Avg": "70",
-     "Water": 48
+     "Water": 30
   },
   {
     "Day": "9",
     "Avg": "80",
-     "Water": 63
+     "Water": 25
   }
 ]
