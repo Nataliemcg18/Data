@@ -5,7 +5,8 @@
 		{"name":"903061..","group":1},
 		{"name":"Golga2","group":1},
 	  {"name":"433015","group":1},
-	    {"name":"Rbm28","group":1}
+	    {"name":"Rbm28","group":1},
+	  {"name":"Tmsb4x","group":1}
 	       
 	],
 	"links":[
@@ -13,6 +14,8 @@
 		{"source":0,"target":2,"weight":1},
 		{"source":0,"target":3,"weight":3},
 		{"source":0,"target":4,"weight":3},
+		{"source":0,"target":5,"weight":3},
+		{"source":5,"target":6,"weight":3},
 		{"source":0,"target":0,"weight":3}
 		
 	]
